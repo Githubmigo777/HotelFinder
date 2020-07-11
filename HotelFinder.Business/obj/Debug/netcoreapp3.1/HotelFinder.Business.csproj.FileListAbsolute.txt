@@ -1,0 +1,14 @@
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.deps.json
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.pdb
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csprojAssemblyReference.cache
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfoInputs.cache
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfo.cs
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CoreCompileInputs.cache
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CopyComplete
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.pdb

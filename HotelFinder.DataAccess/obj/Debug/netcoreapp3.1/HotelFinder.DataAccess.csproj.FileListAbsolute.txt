@@ -1,0 +1,15 @@
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.deps.json
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfo.cs
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csprojAssemblyReference.cache
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.json
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.dev.json
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CopyComplete
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+D:\visualStudio2019\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.genruntimeconfig.cache
